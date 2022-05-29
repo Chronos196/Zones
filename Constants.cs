@@ -3,8 +3,8 @@
     static class Constants
     {
         public readonly static int CellSizePX = 32;
-        public readonly static int CellCountWidth = 35;
-        public readonly static int CellCountHeight = 25;
+        public readonly static int CellCountWidth = 40;
+        public readonly static int CellCountHeight = 30;
         public readonly static int GameIntervalMS = 1000 / 10;
         public readonly static int MaxZonesArea = CellCountWidth * CellCountHeight / 4;
         public readonly static int EnemyCount = CellCountWidth * CellCountHeight / 150 + 1;
